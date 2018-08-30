@@ -22,6 +22,6 @@ This is assuming you are already running your Tomcat server.
 
 Next cd into note_client and run npm start, and you should see the client running on your browser! 
 
-#React-Router
+# React-Router
 
 This app implements React-Router for my first time and it was very useful to learn that library.
